@@ -1,0 +1,4 @@
+Exemplo de CRUD com classes (jeito antigo de se fazer antes dos Hooks)
+Basta dar npm install nas duas pastas e npm start para rodar o servidor e o front
+
+Usa LocalStorage
